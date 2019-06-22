@@ -1,0 +1,11 @@
+.navbar-nav li{
+    padding-left:10px;
+    padding-right:10px;
+  }
+  p1 {
+      float: right;
+    
+  }
+  p.col-sm-4 {
+      max-width: 20%;
+  }
